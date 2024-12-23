@@ -1,0 +1,25 @@
+site_name: Icona Creation by Toby
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  favicon: images/favicon.png
+  logo: images/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.section
+    - navigation.expand
+
+extra_css:
+    - style.css  # Assicurati che il percorso sia corretto
+
+nav:
+  - Home: index.md
+  - About:
+      - About : about/about.md
+      - Programma: about/programma.md
+  - Code: code.md
