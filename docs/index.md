@@ -1,4 +1,5 @@
 ---
-<h1>Benvenuto</h1>
+layout: default
+title: Benvenuto
 ---
 Benvenuto nel mio sito
