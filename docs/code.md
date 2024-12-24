@@ -1,5 +1,6 @@
---- 
-   <h1> Ecco come ho cambiato lo stile del mio sito:</h1>
+---
+layout: default
+title: Code
 ---
     /* Importa il font Poppins */
         @import url('https://fonts.googleapis.com/css2?
